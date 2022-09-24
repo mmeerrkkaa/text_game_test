@@ -20,6 +20,8 @@ class Player:
 
 		self.money = 0
 
+		self.floor = None
+
 	def add_exp(self, exp: int) -> bool:
 		""" Добавляет опыт игроку, если опыт достигает максимального, то игрок повышается на уровень """
 		self.exp += exp
