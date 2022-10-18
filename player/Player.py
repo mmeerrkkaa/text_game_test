@@ -60,4 +60,7 @@ class Player:
 	def remove_money(self, money):
 		self.money -= money
 
+	def test_merka(self):
+		print("Merka")
+
 
