@@ -64,3 +64,6 @@ class Player:
 		print("Merka")
 
 
+
+def t():
+	pass
