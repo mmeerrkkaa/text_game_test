@@ -70,6 +70,8 @@ class Player:
 			self.health = self.max_health
 		self.inventory.remove_item(item)
 
+	def test_felix(self):
+		self.health = self.health
 
 
 
