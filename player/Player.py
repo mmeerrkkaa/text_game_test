@@ -54,6 +54,9 @@ class Player:
 		self.damage -= 1 * lvl
 		self.defense -= 1 * lvl
 
+	def test_one(self):
+		print("test_one")
+
 	def add_money(self, money: int):
 		self.money += money
 
