@@ -59,3 +59,6 @@ class Player:
 
 	def remove_money(self, money):
 		self.money -= money
+
+	def test_felix(self):
+		print("test")
