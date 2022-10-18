@@ -62,6 +62,3 @@ class Player:
 
 	def test_felix(self):
 		print("test")
-
-	def test_test_felix(self):
-		print("test")
