@@ -57,5 +57,8 @@ class Player:
 	def add_money(self, money: int):
 		self.money += money
 
+	def test_two(self):
+		print("test_two")
+		
 	def remove_money(self, money):
 		self.money -= money
