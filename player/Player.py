@@ -78,6 +78,3 @@ class Player:
 			self.inventory.remove_item(item, 1)
 		else:
 			raise Exception("Неизвестный предмет")
-
-
-
